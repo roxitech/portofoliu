@@ -1,3 +1,4 @@
+
 /*GENERAL STYLE*/
 
 body {
@@ -6,10 +7,11 @@ body {
     color: black;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 992px) {
     body {
         padding-top: 0;
         padding-left: 17rem;
+		
     }
 }
 
@@ -422,7 +424,7 @@ a:active {
 }
 
 .skill-cover {
-    background-color: #66b3ff; 
+    background-color:rgba(255, 255, 255, 0.2) ; 
 }
 
 .skill-cover h3{
@@ -434,7 +436,7 @@ a:active {
 .skill-item {
     padding: 20px 0;
     margin-bottom: 30px;
-    background: rgba(144, 144, 144, 0.78);
+    background: black;
 }
 
 .skill-item i {
