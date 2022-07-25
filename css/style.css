@@ -7,7 +7,7 @@ body {
     color: black;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 992px) {
     body {
         padding-top: 0;
         padding-left: 17rem;
@@ -23,8 +23,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 5rem;
-    line-height: 4.5rem;
+    font-size: 6rem;
+    line-height: 5.5rem;
 }
 
 h2 {
