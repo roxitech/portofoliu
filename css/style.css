@@ -453,7 +453,7 @@ a:active {
 }
 
 .skill-item p {
-    color: black;
+    color: white;
     font-family: "hind", sans-serif;
     /*text-transform: uppercase;*/
     font-weight: 300;
