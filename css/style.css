@@ -429,7 +429,7 @@ a:active {
 
 .skill-cover h3{
   font-family: "hind", sans-serif;
-  font-size: 55px;
+  font-size: 50px;
   margin-bottom: 40px;
 }
 
@@ -446,7 +446,7 @@ a:active {
 .skill-item h2 {
     color: #fff;
     font-size: "hind", sans-serif;
-    font-size: 55px;
+    font-size: 50px;
     font-weight: 700;
     margin-top: 15px;
     margin-bottom: 1px;
@@ -457,7 +457,7 @@ a:active {
     font-family: "hind", sans-serif;
     /*text-transform: uppercase;*/
     font-weight: 300;
-	font-size: 35px;
+	font-size: 30px;
     margin-top: 0;
 }
 
