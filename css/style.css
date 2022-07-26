@@ -1,6 +1,6 @@
 
-/*GENERAL STYLE*/
 
+/*GENERAL STYLE*/
 body {
     font-family: 'Open Sans', serif;
     padding-top: 54px;
@@ -440,7 +440,7 @@ a:active {
 }
 
 .skill-item i {
-    color: black;
+    color: white;
 }
 
 .skill-item h2 {
